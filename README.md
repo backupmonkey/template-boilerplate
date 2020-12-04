@@ -1,5 +1,5 @@
 # Joomla! 3.X Template Boilerplate
-Kickstart your template-workflow with our Joomla 3.X Template Boilerplate provided by [backupmonkey.io]
+Kickstart your template-workflow with our Joomla 3.X Template Boilerplate provided by BackupMonkey - The dashboard for agencies and freelancers to manage multiple Joomla!-Sites in one place (www.backupmonkey.io).
 
 
 ## SCSS
@@ -55,4 +55,8 @@ We seperate our SCSS by view-specific styles (for example: _item-page.scss), bas
 
 If it makes your life easier build your template based on this pattern. If not just do it the way it works best for you. :)
 
+## Contribute
 
+Wir freuen uns über jegliche Verbesserungen an diesem Boilerplate um der gesamten Joomla-Community eine möglichst gute Basis für die Entwicklung von individuellen Templates zu bieten.
+
+Also los geht's - meldet uns eure Verbesserungsvorschläge und Wünsche.
