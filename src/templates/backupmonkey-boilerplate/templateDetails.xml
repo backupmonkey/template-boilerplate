@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="template" version="3.0.0">
+	<name>BackupMonkey Boilerplate</name>
+	<version>1.0.0</version>
+	<description>Boilerplate to start your Joomla!-Template. Provided by BackupMonkey - The Dashboard to manage all your Joomla!-Sites in one place. Learn more: www.backupmonkey.io.</description>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<author>BackupMonkey UG</author>
+	<authoremail>info@backupmonkey.io</authoremail>
+	<copyright>Copyright (C) 2020 BackupMonkey UG. All rights reserved.</copyright>
+	<creationDate>01-Nov-2020</creationDate>
+	<files>
+		<folder>css</folder>
+		<folder>img</folder>
+		<folder>js</folder>
+		<folder>scss</folder>
+		<folder>font</folder>
+		<folder>html</folder>
+		<filename>index.php</filename>
+		<filename>templateDetails.xml</filename>
+		<filename>template_thumbnail.png</filename>
+		<filename>template_preview.png</filename>
+		<filename>error.php</filename>
+		<filename>homeicon192.png</filename>
+		<filename>favicon.ico</filename>
+	</files>
+	<positions>
+		<position>example_position</position>
+	</positions>
+</extension>

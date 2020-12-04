@@ -1,0 +1,1 @@
+This directory is used to add images you want to implement into your template (for example a Logo-File or a background-image).

@@ -1,0 +1,7 @@
+@include critical(true) {
+  // Styles, which are critical and should be implemented in the head of the page should be included here.
+}
+
+@include critical(true) {
+  // Styles, which aren't critical and should be loaded in a CSS-File at the end of the document should be included here.
+}
