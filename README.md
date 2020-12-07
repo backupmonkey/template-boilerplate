@@ -57,6 +57,6 @@ If it makes your life easier build your template based on this pattern. If not j
 
 ## Contribute
 
-Wir freuen uns über jegliche Verbesserungen an diesem Boilerplate um der gesamten Joomla-Community eine möglichst gute Basis für die Entwicklung von individuellen Templates zu bieten.
+We are happy about any improvements to this boilerplate to provide the whole Joomla community with the best possible foundation for the development of individual templates.
 
-Also los geht's - meldet uns eure Verbesserungsvorschläge und Wünsche.
+So let's go - send us your proposals for improvement.
